@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7jJkd945J63Vx51Ph2YbOuCEljw0oT7Kq9L/6GwZJEgPmQAAsQSttSin11TAWUeK8NdP1xt5E9rqB9HCEbGiJw==",
+  "dgSpecHash": "/X9H0yoOmJ3EUPyWjytVdZrwaqzSa5tIATCnTY2g41RSK/WUYEIHcIRsVgGJj/LzB1kFz8wnEyNTOs3FwDkCiQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\BDGSA\\GIT\\ui-path\\Data Manipulation\\Practice 3 Dictionaries and Integers\\.local\\",
+  "projectFilePath": "C:\\Users\\BDGSA\\GIT\\ui-path\\Data Manipulation\\Pratice 7 Extract Email\\.local\\",
   "expectedPackageFiles": [
     "C:\\Users\\BDGSA\\.nuget\\packages\\closedxml\\0.87.1\\closedxml.0.87.1.nupkg.sha512",
     "C:\\Users\\BDGSA\\.nuget\\packages\\csvhelper\\16.0.0\\csvhelper.16.0.0.nupkg.sha512",
@@ -101,7 +101,7 @@
       "code": "NU1603",
       "level": "Warning",
       "warningLevel": 1,
-      "filePath": "C:\\Users\\BDGSA\\GIT\\ui-path\\Data Manipulation\\Practice 3 Dictionaries and Integers\\.local",
+      "filePath": "C:\\Users\\BDGSA\\GIT\\ui-path\\Data Manipulation\\Pratice 7 Extract Email\\.local",
       "message": "Microsoft.Extensions.Primitives 3.1.6 depends on System.Memory (>= 4.5.2) but System.Memory 4.5.2 was not found. An approximate best match of System.Memory 4.5.3 was resolved.",
       "libraryId": "System.Memory",
       "targetGraphs": [

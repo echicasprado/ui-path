@@ -7566,11 +7566,11 @@
   },
   "project": {
     "restore": {
-      "projectUniqueName": "Practice 3 Dictionaries and Integers",
-      "projectName": "Practice 3 Dictionaries and Integers",
-      "projectPath": "C:\\Users\\BDGSA\\GIT\\ui-path\\Data Manipulation\\Practice 3 Dictionaries and Integers\\.local",
+      "projectUniqueName": "Practice 4 Dictionaries Doubles",
+      "projectName": "Practice 4 Dictionaries Doubles",
+      "projectPath": "C:\\Users\\BDGSA\\GIT\\ui-path\\Data Manipulation\\Practice 4 Dictionaries Doubles\\.local",
       "packagesPath": "C:\\Users\\BDGSA\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\BDGSA\\GIT\\ui-path\\Data Manipulation\\Practice 3 Dictionaries and Integers\\.local"
+      "outputPath": "C:\\Users\\BDGSA\\GIT\\ui-path\\Data Manipulation\\Practice 4 Dictionaries Doubles\\.local"
     },
     "frameworks": {
       "net461": {

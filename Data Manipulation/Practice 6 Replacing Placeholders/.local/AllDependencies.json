@@ -7566,11 +7566,11 @@
   },
   "project": {
     "restore": {
-      "projectUniqueName": "Practice 3 Dictionaries and Integers",
-      "projectName": "Practice 3 Dictionaries and Integers",
-      "projectPath": "C:\\Users\\BDGSA\\GIT\\ui-path\\Data Manipulation\\Practice 3 Dictionaries and Integers\\.local",
+      "projectUniqueName": "Practice 6 Replacing Placeholders",
+      "projectName": "Practice 6 Replacing Placeholders",
+      "projectPath": "C:\\Users\\BDGSA\\GIT\\ui-path\\Data Manipulation\\Practice 6 Replacing Placeholders\\.local",
       "packagesPath": "C:\\Users\\BDGSA\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\BDGSA\\GIT\\ui-path\\Data Manipulation\\Practice 3 Dictionaries and Integers\\.local"
+      "outputPath": "C:\\Users\\BDGSA\\GIT\\ui-path\\Data Manipulation\\Practice 6 Replacing Placeholders\\.local"
     },
     "frameworks": {
       "net461": {
