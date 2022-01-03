@@ -1,0 +1,13 @@
+﻿{
+  "Id": "cS2FRIKRrUGdYftjtcIw3A",
+  "Reference": "6ZTgHZLQ00u_vBv3O2MZaQ/cS2FRIKRrUGdYftjtcIw3A",
+  "ParentRef": "6ZTgHZLQ00u_vBv3O2MZaQ/STRj2hjYEEKO0aSqQeUigw",
+  "Name": "Chrome: Password Generator",
+  "Type": "Screen",
+  "Created": "2022-01-03T19:18:09.183411Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=21.10.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-01-03T19:18:09.183411Z"
+}

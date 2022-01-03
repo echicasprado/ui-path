@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable BrowserURL="https://www.rpasamples.com/passwordgenerator" ContentHash="fYnIpZkK3kiT5yUYPMYIJQ" DesignTimeRectangle="1457, 293, 60, 60" ElementType="Button" FriendlyName="'Copy to clipboard'" FullSelectorArgument="&lt;webctrl aaname='Copy to clipboard' tag='BUTTON' /&gt;" FuzzySelectorArgument="&lt;webctrl aaname='Copy to clipboard' tag='BUTTON' type='' check:text='Copy to clipboard' /&gt;" Guid="a6000f7d-706d-4cc6-b61d-24f22df2769f" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Password Generator' /&gt;" SearchSteps="FuzzySelector, Image" xmlns="http://schemas.uipath.com/workflow/activities/uix">
+  <imageRef attrName="ImageBase64" xmlns="">0Z8cLXoC0aEG0YHHADO0J3Q</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="9f4b1a04e9e7895dd0b37f73e6b72d57.png" xmlns="">06FZNgBv9lE6Q40Uthm953w</imageRef>
+</TargetAnchorable>

@@ -1,0 +1,14 @@
+﻿{
+  "Id": "wpCxwXrc9UuhclvQPFHzqg",
+  "Reference": "6ZTgHZLQ00u_vBv3O2MZaQ/wpCxwXrc9UuhclvQPFHzqg",
+  "ParentRef": "6ZTgHZLQ00u_vBv3O2MZaQ/cS2FRIKRrUGdYftjtcIw3A",
+  "Name": "Copy to clipboard",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Created": "2022-01-03T19:18:21.9168791Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=21.10.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-01-03T19:18:21.9168791Z"
+}

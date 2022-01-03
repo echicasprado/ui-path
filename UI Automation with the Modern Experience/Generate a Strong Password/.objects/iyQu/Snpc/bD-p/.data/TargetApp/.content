@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetApp Area="0, 0, 0, 0" Arguments="C:\\Users\\BDGSA\\GIT\\ui-path\\UI Automation with the Modern Experience\\Generate a Strong Password\\Files\\passwords.txt" ContentHash="Z3OfNVZye02X4Cauh4Br6w" FilePath="C:\\\\Windows\\\\System32\\\\notepad.exe" Selector="&lt;wnd app='notepad.exe' cls='Notepad' title='passwords.txt: Bloc de notas'/&gt;" xmlns="http://schemas.uipath.com/workflow/activities/uix">
+  <imageRef attrName="IconBase64" xmlns="">0XAaDfPpDZU6VNx8U6SavPg</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="8e7249b76eb5ce713e41b2eee10b32e0.png" xmlns="">0XljQOUipx02YDoHOO65elA</imageRef>
+</TargetApp>

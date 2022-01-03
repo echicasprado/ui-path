@@ -1,0 +1,12 @@
+﻿{
+  "Id": "_v8kOBFp706zSzXiZv325Q",
+  "Reference": "6ZTgHZLQ00u_vBv3O2MZaQ/_v8kOBFp706zSzXiZv325Q",
+  "Name": "Chrome: Password Generator",
+  "Type": "App",
+  "Created": "2022-01-03T19:18:09.0220367Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=21.10.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-01-03T19:18:09.0220367Z"
+}

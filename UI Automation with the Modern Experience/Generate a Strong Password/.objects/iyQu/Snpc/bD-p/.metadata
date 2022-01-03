@@ -1,0 +1,13 @@
+﻿{
+  "Id": "bD-p9Eh_t02INMjyWl9QfQ",
+  "Reference": "6ZTgHZLQ00u_vBv3O2MZaQ/bD-p9Eh_t02INMjyWl9QfQ",
+  "ParentRef": "6ZTgHZLQ00u_vBv3O2MZaQ/SnpcIdyt10-P_FEs54JvGQ",
+  "Name": "passwords.txt: Bloc de notas",
+  "Type": "Screen",
+  "Created": "2022-01-03T19:23:23.0325864Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=21.10.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-01-03T19:23:23.0325864Z"
+}
