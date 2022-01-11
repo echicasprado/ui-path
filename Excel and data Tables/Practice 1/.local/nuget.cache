@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8ADq9V3L6J+Q5e2MdrU7r0MS1mpnphqlE1NIhJHSxPvKS1VHpNXSFhmJrYNsd3dcCqn05wgzBGpRO+xUAFxokw==",
+  "dgSpecHash": "0lIouctQ1Xr0VFA9ay9dkoJz7AsQAiRk5vAAQtr1N/yFVo9R23pYILzEt0hWxpMqnNGWHBsgcIKWAsNrPPQoAw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\BDGSA\\GIT\\ui-path\\Excel and data Tables\\Calculate\\.local\\",
+  "projectFilePath": "C:\\Users\\BDGSA\\GIT\\ui-path\\Excel and data Tables\\Practice 1\\.local\\",
   "expectedPackageFiles": [
     "C:\\Users\\BDGSA\\.nuget\\packages\\closedxml\\0.87.1\\closedxml.0.87.1.nupkg.sha512",
     "C:\\Users\\BDGSA\\.nuget\\packages\\csvhelper\\16.0.0\\csvhelper.16.0.0.nupkg.sha512",
@@ -101,7 +101,7 @@
       "code": "NU1603",
       "level": "Warning",
       "warningLevel": 1,
-      "filePath": "C:\\Users\\BDGSA\\GIT\\ui-path\\Excel and data Tables\\Calculate\\.local",
+      "filePath": "C:\\Users\\BDGSA\\GIT\\ui-path\\Excel and data Tables\\Practice 1\\.local",
       "message": "Microsoft.Extensions.Primitives 3.1.6 depends on System.Memory (>= 4.5.2) but System.Memory 4.5.2 was not found. An approximate best match of System.Memory 4.5.3 was resolved.",
       "libraryId": "System.Memory",
       "targetGraphs": [
